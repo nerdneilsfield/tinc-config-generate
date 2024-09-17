@@ -1,0 +1,1 @@
+# tinc-config-generate
